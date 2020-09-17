@@ -10,3 +10,4 @@ creating a new branch is quick
 creating a new branch is quick（switch）
 creating a new branch is quick AND simple
 >>>>>>> featurel
+Branch management strategy
